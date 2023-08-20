@@ -1,0 +1,52 @@
+Unity Editor version:    2021.1.22f1 (a137e5fb0427)
+Branch:                  2021.1/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 10.15.7 (Build 19H1519)
+Darwin version:          19.6.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: NO
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+/Applications/Unity/Hub/Editor/2020.3.18f1/PEPSIMAN
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+49554
+Successfully changed project path to: /Applications/Unity/Hub/Editor/2020.3.18f1/PEPSIMAN
+/Applications/Unity/Hub/Editor/2020.3.18f1/PEPSIMAN
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 1720.23 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.22f1 (a137e5fb0427)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.18f1/PEPSIMAN/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+2021-12-05 15:36:09.820 Unity[5944:289116] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6000 (low power)
+2021-12-05 15:36:09.820 Unity[5944:289116] Metal devices available: 1
+2021-12-05 15:36:09.820 Unity[5944:289116] 0: Intel(R) Iris(TM) Graphics 6000 (low power)
+2021-12-05 15:36:09.823 Unity[5944:289116] Using device Intel(R) Iris(TM) Graphics 6000 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Graphics 6000
+Initialize mono
+Mono path[0] = '/Applications/Unity/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56944
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.003274 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1872.27 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
